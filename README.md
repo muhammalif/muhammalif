@@ -37,7 +37,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
   <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=termaulmaul&theme=dark&hide_border=true&stroke=f53b3b"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=TUTURUGA911&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=muhammalif&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=muhammalif&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
