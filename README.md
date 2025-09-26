@@ -28,8 +28,8 @@
 ## 🏆 Professional Highlights
 
 As **Freelancer Fullstack Web Development**,
-As **Freelancer Mobile Development**,
-As **Builder on Web3 and Blockchain**,
+**Freelancer Mobile Development**,
+**Builder on Web3 and Blockchain**,
 
 
 ---
@@ -39,12 +39,12 @@ As **Builder on Web3 and Blockchain**,
 <div align="center">
 
 **Frontend & UI**  
-<img src="https://skillicons.dev/icons?i=react,,next,flutter,html,css,tailwind,bootstrap,figma" height="32" />
+<img src="https://skillicons.dev/icons?i=react,next,flutter,html,css,tailwind,bootstrap,figma" height="32" />
 
 **Backend & Databases**  
 <img src="https://skillicons.dev/icons?i=nodejs,laravel,express,python,flask,mysql,postgresql,mongodb,firebase,supabase" height="32" />
 
-**Ssmart Contract**
+**Smart Contract**
 <img src="https://skillicons.dev/icons?i=solidity,rust,ethereum,solana" height="32" />
 
 **Tools & Programming Language**  
