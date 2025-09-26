@@ -45,7 +45,7 @@ As **Freelancer Fullstack Web Development**,
 <img src="https://skillicons.dev/icons?i=nodejs,laravel,express,python,flask,mysql,postgresql,mongodb,firebase,supabase" height="32" />
 
 **Smart Contract**
-<img src="https://skillicons.dev/icons?i=solidity,rust,ethereum,solana" height="32" />
+<img src="https://skillicons.dev/icons?i=solidity,rust" height="32" />
 
 **Tools & Programming Language**  
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,typescript,javascript,python,php" height="32" />
