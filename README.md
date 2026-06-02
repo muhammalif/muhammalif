@@ -9,12 +9,12 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=termaulmaul.termaulmaul" alt="Visitor badge" loading="lazy" />
 
-**Fullstack Engineer & Web3 Builder 🇮🇩**  
-*Building secure, user-centric, and impactful digital solutions.*
+**Fullstack Engineer (Web2, Web3 & Mobile) 🇮🇩**  
+*Building scalable applications with React, Node.js, PostgreSQL, Solidity, and AI-assisted development workflows.*
 
 ---
 
-🌱 **Focus Areas:** Fullstack (Frontend, Backend, Mobile), Smart Contract, Web3, Blockchain  
+🌱 **Focus Areas:** Fullstack Development • Web3 Development • Mobile Development • Database Engineering • AI-Assisted Development 
 
 ---
 
@@ -27,9 +27,57 @@
 
 ## 🏆 Professional Highlights
 
-As **Freelancer Fullstack Web Development**,
-**Freelancer Mobile Development**,
-**Builder on Web3 and Blockchain**,
+💻 Developed and delivered applications across Web2, Web3, and Mobile ecosystems
+🔗 Built decentralized applications (dApps), smart contract integrations, and DeFi platforms
+🗄️ Designed and implemented database-driven systems using PostgreSQL, MySQL, and MongoDB
+🤖 Leveraged AI coding agents, MCP integrations, and modern developer workflows to improve software delivery
+🚀 Top 60 Finalist — VietBUIDL Hackathon with AlphaYield
+
+
+---
+
+## 🏆 Featured Projects
+
+**BareIt**
+
+Onchain social application built on Base featuring challenge verification, NFT rewards, wallet authentication, and PostgreSQL-powered backend services.
+
+**Tech Stack:** Next.js, Solidity, PostgreSQL, Base
+
+
+**Alpha Yield**
+
+AI-powered DeFi yield aggregation platform built for VietBUIDL Hackathon with smart contracts, automated yield strategies, and analytics dashboards.
+
+**Tech Stack:** React, Solidity, Hardhat, AI Agent
+
+
+**Droppio Network**
+
+Creator economy platform supporting content creators through tipping systems and Soulbound Token (SBT) rewards.
+
+**Tech Stack:** Next.js, Solidity, Hardhat
+
+
+**FXDragunov Indonesia**
+
+Forex education platform with landing page, admin dashboard, article management, analytics, and secure authentication.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB
+
+
+**Guess The Number Game**
+
+Full-stack gaming platform featuring authentication, leaderboards, gameplay APIs, and database-driven score management.
+
+**Tech Stack:** React, Flask, PostgreSQL
+
+
+**Finly App**
+
+Personal finance mobile application featuring expense tracking, PIN security, CSV export, analytics, and receipt text recognition.
+
+**Tech Stack:** React Native
 
 
 ---
@@ -38,17 +86,17 @@ As **Freelancer Fullstack Web Development**,
 
 <div align="center">
 
-**Frontend & UI**  
-<img src="https://skillicons.dev/icons?i=react,next,flutter,html,css,tailwind,bootstrap,figma" height="32" />
+**Fullstack Development**  
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,laravel,flask,typescript" height="32" />
 
-**Backend & Databases**  
-<img src="https://skillicons.dev/icons?i=nodejs,laravel,express,python,flask,mysql,postgresql,mongodb,firebase,supabase" height="32" />
+**Web3 Development**  
+<img src="https://skillicons.dev/icons?i=solidity,ethereum,wagmi" height="32" />
 
-**Smart Contract**
-<img src="https://skillicons.dev/icons?i=solidity,rust" height="32" />
+**Database & Backend System**
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlalchemy,prisma" height="32" />
 
-**Tools & Programming Language**  
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,typescript,javascript,python,php" height="32" />
+**AI-Assisted & Tools**  
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,cursor,codex,claudecode,figma" height="32" />
 
 </div>
 
@@ -76,16 +124,26 @@ As **Freelancer Fullstack Web Development**,
 
 ## 🤝 Collaboration
 
-- Open to **collaboration** in Fullstack Web Development, Mobile Development and Web3 Development (Smart Contract & Blockchain)  
-- Contact me via [email](mailto:malif.1006@gmail.com) or [LinkedIn](https://www.linkedin.com/in/muhammad-alif-islam/)   
+- Open to collaboration in Fullstack Development
+- Open to collaboration in Web3 Development
+- Open to collaboration in Backend & Database Engineering
+- Open to collaboration in Mobile Development 
+
+📫 Reach me via:
+- [email](mailto:malif.1006@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-alif-islam/)  
 
 ---
 
 ## ⚡ Fun Fact
 
-Outside tech, I love exploring Indonesian **tech communities** and discovering **local travel gems**. 🌍
+Passionate about building practical software solutions, exploring emerging Web3 technologies, and optimizing developer workflows through AI-assisted engineering.
 
 ---
+
+Thanks for visiting 👋
+
+"Building practical software solutions across Web2, Web3, Mobile, and Database Systems."
 
 <div align="center">
 
