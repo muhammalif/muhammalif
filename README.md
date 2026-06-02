@@ -28,9 +28,13 @@
 ## 🏆 Professional Highlights
 
 *💻 Developed and delivered applications across Web2, Web3, and Mobile ecosystems*
+
 *🔗 Built decentralized applications (dApps), smart contract integrations, and DeFi platforms*
+
 *🗄️ Designed and implemented database-driven systems using PostgreSQL, MySQL, and MongoDB*
+
 *🤖 Leveraged AI coding agents, MCP integrations, and modern developer workflows to improve software delivery*
+
 *🚀 Top 60 Finalist — VietBUIDL Hackathon with AlphaYield*
 
 
