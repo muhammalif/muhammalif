@@ -96,17 +96,54 @@ Personal finance mobile application featuring expense tracking, PIN security, CS
 
 <div align="center">
 
-**Fullstack Development**  
-<img src="https://skillicons.dev/icons?i=react,next,nodejs,laravel,flask,typescript" height="32" />
+### Fullstack Development
 
-**Web3 Development**  
-<img src="https://skillicons.dev/icons?i=solidity,ethereum,wagmi" height="32" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+</p>
 
-**Database & Backend System**
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlalchemy,prisma" height="32" />
+### Web3 Development
 
-**AI-Assisted & Tools**  
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,cursor,figma" height="32" />
+<p>
+  <img src="https://cdn.simpleicons.org/solidity" width="40" />
+  <img src="https://cdn.simpleicons.org/ethereum" width="40" />
+</p>
+
+<p>
+  Solidity • Smart Contracts • Hardhat • Wagmi • Viem • Base
+</p>
+
+### Database & Backend System
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.simpleicons.org/prisma" width="40" />
+</p>
+
+<p>
+  PostgreSQL • MySQL • MongoDB • Prisma • SQLAlchemy
+</p>
+
+### AI-Assisted & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+</p>
+
+<p>
+  Codex • Cursor • Claude Code • MCP Server
+</p>
 
 </div>
 
