@@ -27,57 +27,63 @@
 
 ## 🏆 Professional Highlights
 
-💻 Developed and delivered applications across Web2, Web3, and Mobile ecosystems
-🔗 Built decentralized applications (dApps), smart contract integrations, and DeFi platforms
-🗄️ Designed and implemented database-driven systems using PostgreSQL, MySQL, and MongoDB
-🤖 Leveraged AI coding agents, MCP integrations, and modern developer workflows to improve software delivery
-🚀 Top 60 Finalist — VietBUIDL Hackathon with AlphaYield
+*💻 Developed and delivered applications across Web2, Web3, and Mobile ecosystems*
+*🔗 Built decentralized applications (dApps), smart contract integrations, and DeFi platforms*
+*🗄️ Designed and implemented database-driven systems using PostgreSQL, MySQL, and MongoDB*
+*🤖 Leveraged AI coding agents, MCP integrations, and modern developer workflows to improve software delivery*
+*🚀 Top 60 Finalist — VietBUIDL Hackathon with AlphaYield*
 
 
 ---
 
 ## 🏆 Featured Projects
 
-**BareIt**
+🎯 **BareIt**
 
 Onchain social application built on Base featuring challenge verification, NFT rewards, wallet authentication, and PostgreSQL-powered backend services.
 
 **Tech Stack:** Next.js, Solidity, PostgreSQL, Base
 
 
-**Alpha Yield**
+
+💰 **Alpha Yield**
 
 AI-powered DeFi yield aggregation platform built for VietBUIDL Hackathon with smart contracts, automated yield strategies, and analytics dashboards.
 
 **Tech Stack:** React, Solidity, Hardhat, AI Agent
 
 
-**Droppio Network**
+
+🎨 **Droppio Network**
 
 Creator economy platform supporting content creators through tipping systems and Soulbound Token (SBT) rewards.
 
 **Tech Stack:** Next.js, Solidity, Hardhat
 
 
-**FXDragunov Indonesia**
+
+📈 **FXDragunov Indonesia**
 
 Forex education platform with landing page, admin dashboard, article management, analytics, and secure authentication.
 
 **Tech Stack:** React, Node.js, Express.js, MongoDB
 
 
-**Guess The Number Game**
+
+🎮 **Guess The Number Game**
 
 Full-stack gaming platform featuring authentication, leaderboards, gameplay APIs, and database-driven score management.
 
 **Tech Stack:** React, Flask, PostgreSQL
 
 
-**Finly App**
+
+📱 **Finly App**
 
 Personal finance mobile application featuring expense tracking, PIN security, CSV export, analytics, and receipt text recognition.
 
 **Tech Stack:** React Native
+
 
 
 ---
@@ -96,7 +102,7 @@ Personal finance mobile application featuring expense tracking, PIN security, CS
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlalchemy,prisma" height="32" />
 
 **AI-Assisted & Tools**  
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,cursor,codex,claudecode,figma" height="32" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,cursor,figma" height="32" />
 
 </div>
 
