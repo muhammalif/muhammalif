@@ -7,7 +7,6 @@
 
 # Muhammad Alif Islam
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=termaulmaul.termaulmaul" alt="Visitor badge" loading="lazy" />
 
 **Fullstack Engineer (Web2, Web3 & Mobile) 🇮🇩**  
 *Building scalable applications with React, Node.js, PostgreSQL, Solidity, and AI-assisted development workflows.*
@@ -115,7 +114,7 @@ Personal finance mobile application featuring expense tracking, PIN security, CS
 </p>
 
 <p>
-  Solidity • Smart Contracts • Hardhat • Wagmi • Viem • Base
+  Solidity • Smart Contracts • Hardhat • Foundry • Wagmi • Viem • EVM
 </p>
 
 ### Database & Backend System
@@ -153,7 +152,7 @@ Personal finance mobile application featuring expense tracking, PIN security, CS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammalif&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515" alt="Profile Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammalif&hide_border=true&show_icons=true&count_private=true&theme=github_dark" alt="Profile Stats" />
 
 <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=muhammalif&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
 
@@ -161,13 +160,24 @@ Personal finance mobile application featuring expense tracking, PIN security, CS
 
 ---
 
-## 🐍 Contributions
+## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=muhammalif&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammalif&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
 
 ## 🤝 Collaboration
 
