@@ -99,54 +99,75 @@ Personal finance mobile application featuring expense tracking, PIN security, CS
 
 <div align="center">
 
-### Fullstack Development
+### Backend & Data
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" alt="Fastify" title="Fastify" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" title="Express" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" title="Flask" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma" width="40" />
+  <img src="https://cdn.simpleicons.org/drizzle" alt="Drizzle ORM" title="Drizzle ORM" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" title="SQLAlchemy" width="40" />
+  <img src="https://cdn.simpleicons.org/zod" alt="Zod" title="Zod" width="40" />
 </p>
 
-### Web3 Development
+<p>TypeScript • Node.js • Fastify • Express • Python • Flask • PostgreSQL • SQLite • MongoDB • MySQL • Prisma • Drizzle • SQLAlchemy • Zod</p>
+
+### Web3 & Smart Contracts
 
 <p>
-  <img src="https://cdn.simpleicons.org/solidity" width="40" />
-  <img src="https://cdn.simpleicons.org/ethereum" width="40" />
+  <img src="https://cdn.simpleicons.org/solidity" alt="Solidity" title="Solidity" width="40" />
+  <img src="https://cdn.simpleicons.org/ethereum" alt="Ethereum" title="Ethereum" width="40" />
+  <img src="https://cdn.simpleicons.org/wagmi" alt="wagmi" title="wagmi" width="40" />
+  <img src="https://cdn.simpleicons.org/ethers" alt="ethers.js" title="ethers.js" width="40" />
+  <img src="https://cdn.simpleicons.org/binance" alt="BNB Chain" title="BNB Chain" width="40" />
 </p>
+
+<p>Solidity • Foundry • Hardhat • viem • wagmi • ethers.js • EVM • BNB Chain • Base</p>
+
+### AI Engineering
 
 <p>
-  Solidity • Smart Contracts • Hardhat • Foundry • Wagmi • Viem • EVM
+  <img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini API" title="Gemini API" width="40" />
+  <img src="https://cdn.simpleicons.org/supabase" alt="Supabase pgvector" title="Supabase pgvector" width="40" />
 </p>
 
-### Database & Backend System
+<p>Gemini API with structured output • RAG with citations • pgvector • Langfuse tracing • LLM-as-judge evaluation • Zod schema validation</p>
+
+### Frontend & Mobile
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.simpleicons.org/prisma" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" title="Vite" width="40" />
 </p>
+
+<p>React • Next.js • Tailwind CSS • React Native • Vite</p>
+
+### Delivery & Tooling
 
 <p>
-  PostgreSQL • MySQL • MongoDB • Prisma • SQLAlchemy
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" />
+  <img src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" title="GitHub Actions" width="40" />
+  <img src="https://cdn.simpleicons.org/vercel" alt="Vercel" title="Vercel" width="40" />
+  <img src="https://cdn.simpleicons.org/railway" alt="Railway" title="Railway" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" />
 </p>
 
-### AI-Assisted & Tools
+<p>Docker • GitHub Actions • Vercel • Railway • Supabase • Git • VS Code • Figma</p>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
-</p>
-
-<p>
-  Codex • Cursor • Claude Code • MCP Server
-</p>
+<p>AI coding tools: Codex, Cursor, Claude Code</p>
 
 </div>
 
