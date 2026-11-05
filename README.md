@@ -26,16 +26,12 @@
 
 ## 🏆 Professional Highlights
 
-*💻 Developed and delivered applications across Web2, Web3, and Mobile ecosystems*
-
-*🔗 Built decentralized applications (dApps), smart contract integrations, and DeFi platforms*
-
-*🗄️ Designed and implemented database-driven systems using PostgreSQL, MySQL, and MongoDB*
-
-*🤖 Leveraged AI coding agents, MCP integrations, and modern developer workflows to improve software delivery*
-
-*🚀 Top 60 Finalist — VietBUIDL Hackathon with AlphaYield*
-
+- Building products since 2022 across onchain social, creator economy, forex education, and personal finance
+- Backends in TypeScript and Python on Fastify, Express, and Flask, with PostgreSQL, SQLite, MongoDB, and SQLAlchemy
+- Smart contracts across six repositories: escrow with replay protection, tipping, Soulbound Token rewards, yield strategies, and signature verification, on Hardhat and Foundry
+- Automated tests in seven repositories: 125 backend integration tests, 30 mobile test files, and 19 Foundry contract tests
+- AI engineering in two codebases: retrieval with citations on pgvector, Langfuse tracing, LLM-as-judge faithfulness scoring, and structured output validated with Zod
+- Top 60 Finalist, VietBUIDL Hackathon with AlphaYield. Also ran a 100 USDT public bounty on a Foundry repo I wrote, which brought 7 forks and outside pull requests
 
 ---
 
