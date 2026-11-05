@@ -31,7 +31,7 @@
 - Smart contracts across six repositories: escrow with replay protection, tipping, Soulbound Token rewards, yield strategies, and signature verification, on Hardhat and Foundry
 - Automated tests in seven repositories: 125 backend integration tests, 30 mobile test files, and 19 Foundry contract tests
 - AI engineering in two codebases: retrieval with citations on pgvector, Langfuse tracing, LLM-as-judge faithfulness scoring, and structured output validated with Zod
-- Top 60 Finalist, VietBUIDL Hackathon with AlphaYield. Also ran a 100 USDT public bounty on a Foundry repo I wrote, which brought 7 forks and outside pull requests
+- Top 60 Finalist, VietBUIDL Hackathon with AlphaYield
 
 ---
 
