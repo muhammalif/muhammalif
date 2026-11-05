@@ -219,13 +219,12 @@ Personal finance mobile application featuring expense tracking, PIN security, CS
 
 ## ⚡ Fun Fact
 
-Passionate about building practical software solutions, exploring emerging Web3 technologies, and optimizing developer workflows through AI-assisted engineering.
+Passionate about building practical software solutions, exploring emerging Web3 & AI technologies, and optimizing developer workflows through AI-assisted engineering.
 
 ---
 
 Thanks for visiting 👋
 
-"Building practical software solutions across Web2, Web3, Mobile, and Database Systems."
 
 <div align="center">
 
