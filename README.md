@@ -8,12 +8,12 @@
 # Muhammad Alif Islam
 
 
-**Fullstack Engineer (Web2, Web3 & Mobile) 🇮🇩**  
-*Building scalable applications with React, Node.js, PostgreSQL, Solidity, and AI-assisted development workflows.*
+**Fullstack Engineer (Web3 & AI)** 🇮🇩  
+*Fullstack with a backend spine: TypeScript on Node.js with Fastify and Express, PostgreSQL, Solidity, React and Next.js on the front, and LLM features built on structured output, retrieval, and automated evals.*
 
 ---
 
-🌱 **Focus Areas:** Fullstack Development • Web3 Development • Mobile Development • Database Engineering • AI-Assisted Development 
+**Focus:** Backend & Data Engineering • AI Engineering • Web3 & Smart Contracts
 
 ---
 
