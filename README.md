@@ -41,6 +41,14 @@
 
 ## 🏆 Featured Projects
 
+🎯 **Bountra** · [repo](https://github.com/muhammalif/bountra) · [live app](https://bountra.vercel.app)
+
+Autonomous GitHub pull request auditor with code-gated milestone escrow on BNB Chain. An LLM agent runs a five-layer audit: HMAC-authenticated webhooks, server-side CI check-runs, a git diff anti-tamper scan, and Gemini structured output validated by Zod, then releases escrowed payouts through ECDSA attestation verified on chain with replay protection.
+
+**Tech Stack:** TypeScript, Fastify, Gemini API, Zod, Drizzle (SQLite), Solidity, Foundry, viem, Docker. **125 agent tests, 15 Foundry tests.** [BountraEscrow on BscScan](https://testnet.bscscan.com/address/0xbe576879961Bd8cdf7CfA72F146C8a3E352c7260)
+
+
+
 🎯 **BareIt**
 
 Onchain social application built on Base featuring challenge verification, NFT rewards, wallet authentication, and PostgreSQL-powered backend services.
